@@ -23,7 +23,7 @@ const home = {
 	path: "/",
 	handler:(request, h) => {
 		directory:{ 
-			return "hello world!"
+			return "Hello world, It is me, your sunshine!"
 		}
 	},
 };
